@@ -1,0 +1,15 @@
+F:\Разработчик\C# Seminar\2zadanie\bin\Debug\net6.0\2zadanie.exe
+F:\Разработчик\C# Seminar\2zadanie\bin\Debug\net6.0\2zadanie.deps.json
+F:\Разработчик\C# Seminar\2zadanie\bin\Debug\net6.0\2zadanie.runtimeconfig.json
+F:\Разработчик\C# Seminar\2zadanie\bin\Debug\net6.0\2zadanie.dll
+F:\Разработчик\C# Seminar\2zadanie\bin\Debug\net6.0\2zadanie.pdb
+F:\Разработчик\C# Seminar\2zadanie\obj\Debug\net6.0\2zadanie.csproj.AssemblyReference.cache
+F:\Разработчик\C# Seminar\2zadanie\obj\Debug\net6.0\2zadanie.GeneratedMSBuildEditorConfig.editorconfig
+F:\Разработчик\C# Seminar\2zadanie\obj\Debug\net6.0\2zadanie.AssemblyInfoInputs.cache
+F:\Разработчик\C# Seminar\2zadanie\obj\Debug\net6.0\2zadanie.AssemblyInfo.cs
+F:\Разработчик\C# Seminar\2zadanie\obj\Debug\net6.0\2zadanie.csproj.CoreCompileInputs.cache
+F:\Разработчик\C# Seminar\2zadanie\obj\Debug\net6.0\2zadanie.dll
+F:\Разработчик\C# Seminar\2zadanie\obj\Debug\net6.0\refint\2zadanie.dll
+F:\Разработчик\C# Seminar\2zadanie\obj\Debug\net6.0\2zadanie.pdb
+F:\Разработчик\C# Seminar\2zadanie\obj\Debug\net6.0\2zadanie.genruntimeconfig.cache
+F:\Разработчик\C# Seminar\2zadanie\obj\Debug\net6.0\ref\2zadanie.dll
