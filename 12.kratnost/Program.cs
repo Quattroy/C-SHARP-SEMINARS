@@ -6,9 +6,9 @@ double secondNumber = double.Parse(Console.ReadLine());
 
 if(firstNumber % secondNumber ==0)
 {
-    Console.WriteLine("Второе число является кратным первому");
+    Console.WriteLine($"{firstNumber}, {secondNumber} -> кратно");
 }
 else
 {
-    Console.WriteLine(firstNumber % secondNumber);
+    Console.WriteLine($"{firstNumber}, {secondNumber} -> не кратно, отстаток {firstNumber % secondNumber}");
 }
